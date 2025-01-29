@@ -48,3 +48,4 @@ Run the config.py script to set the necessary environment variables:
 Finally, run the application:
 
 "python3 src/fetch_pii_gui.py"
+
